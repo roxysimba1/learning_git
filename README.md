@@ -1,4 +1,6 @@
 # learning_git
 
-Right now I am learning about branching.
-ommand we learned is git clone.
+
+Right am learning about branching.
+The command we learned is git clone.
+
